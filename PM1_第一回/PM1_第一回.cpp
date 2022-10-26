@@ -7,10 +7,7 @@ int main()
 {
     std::cout << "Hello PM1!\n";
 
-    std::cout << "New branch changed\n";
-
-    std::cout << "third branch\n";
-
+    std::cout << "New branch changed \n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
